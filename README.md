@@ -1,5 +1,4 @@
 # Controle-Moderno
-Trabalho final de Controle Moderno
 
 Execute os programas nesta ordem:
 
